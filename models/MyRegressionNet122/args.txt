@@ -1,0 +1,9 @@
+name: MyRegressionNet
+epochs: 80
+batch_size: 16
+lr: 0.0003
+a: 1.5
+gamma: 0.9
+betas: (0.9, 0.999)
+eps: 1e-08
+weight_decay: 0.0005
